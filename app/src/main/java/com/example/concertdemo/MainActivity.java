@@ -17,6 +17,8 @@ import java.text.DecimalFormat;
 public class MainActivity extends AppCompatActivity {
     final String TAG = "CONCERT DEMO";
 
+    //changes done from local 2
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
